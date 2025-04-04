@@ -1,12 +1,12 @@
 {
   "mainAssemblyName": "ErgoAdmin.Browser",
   "resources": {
-    "hash": "sha256-2rf9Uo0aEvCiW5uf//AIpggkHI7rVnbTcldpGWmWXQs=",
+    "hash": "sha256-S83wOnGOCvKL7o11lCa6f+dlsAkOhzxogKToLxIBLfU=",
     "fingerprinting": {
       "Avalonia.Base.bwm6a2mmry.wasm": "Avalonia.Base.wasm",
       "Avalonia.Browser.ham2kl7xbp.wasm": "Avalonia.Browser.wasm",
       "Avalonia.Controls.ColorPicker.1zo0fu84jb.wasm": "Avalonia.Controls.ColorPicker.wasm",
-      "Avalonia.Controls.DataGrid.jk71ww2gnb.wasm": "Avalonia.Controls.DataGrid.wasm",
+      "Avalonia.Controls.DataGrid.gtjgygpyvv.wasm": "Avalonia.Controls.DataGrid.wasm",
       "Avalonia.Controls.lav1f2qv5b.wasm": "Avalonia.Controls.wasm",
       "Avalonia.Dialogs.1soffpbtuk.wasm": "Avalonia.Dialogs.wasm",
       "Avalonia.Fonts.Inter.1780t66c2i.wasm": "Avalonia.Fonts.Inter.wasm",
@@ -21,9 +21,9 @@
       "Avalonia.Xaml.Interactions.Custom.s7hk3hbd6z.wasm": "Avalonia.Xaml.Interactions.Custom.wasm",
       "Avalonia.Xaml.Interactivity.n01xwtnu9k.wasm": "Avalonia.Xaml.Interactivity.wasm",
       "DialogHost.Avalonia.yr05ko1o9z.wasm": "DialogHost.Avalonia.wasm",
-      "ErgoAdmin.Browser.8u3smbu73g.wasm": "ErgoAdmin.Browser.wasm",
-      "ErgoAdmin.Common.eu8xxe7rdz.wasm": "ErgoAdmin.Common.wasm",
-      "ErgoAdmin.1k6pej9fas.wasm": "ErgoAdmin.wasm",
+      "ErgoAdmin.Browser.rfn8dfvpmy.wasm": "ErgoAdmin.Browser.wasm",
+      "ErgoAdmin.Common.ycqyjeu6k6.wasm": "ErgoAdmin.Common.wasm",
+      "ErgoAdmin.6mmhefpi7m.wasm": "ErgoAdmin.wasm",
       "ExCSS.sr02vsxils.wasm": "ExCSS.wasm",
       "FluentAvalonia.w8heww4qdc.wasm": "FluentAvalonia.wasm",
       "HarfBuzzSharp.bebe8vylie.wasm": "HarfBuzzSharp.wasm",
@@ -63,7 +63,7 @@
       "System.Net.Primitives.el7k0yi1gl.wasm": "System.Net.Primitives.wasm",
       "System.Net.Requests.dpj0yynz0j.wasm": "System.Net.Requests.wasm",
       "System.ObjectModel.wqeb7gyye3.wasm": "System.ObjectModel.wasm",
-      "System.Private.CoreLib.6gbwb8ijfx.wasm": "System.Private.CoreLib.wasm",
+      "System.Private.CoreLib.87y61br1z1.wasm": "System.Private.CoreLib.wasm",
       "System.Private.Uri.fsjpcsfmbx.wasm": "System.Private.Uri.wasm",
       "System.Private.Xml.8hb56xgvq3.wasm": "System.Private.Xml.wasm",
       "System.Reactive.tsslu2zwo0.wasm": "System.Reactive.wasm",
@@ -75,7 +75,7 @@
       "System.Threading.Tasks.Parallel.wj3q4aq423.wasm": "System.Threading.Tasks.Parallel.wasm",
       "System.icunsnzrqy.wasm": "System.wasm",
       "dotnet.native.1ibkva05g5.js": "dotnet.native.js",
-      "dotnet.native.xy6n5ki9md.wasm": "dotnet.native.wasm",
+      "dotnet.native.y8o01x8hjk.wasm": "dotnet.native.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.runtime.qrl1fuqt3c.js": "dotnet.runtime.js",
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
@@ -89,7 +89,7 @@
       "dotnet.runtime.qrl1fuqt3c.js": "sha256-ilTXrnUF4HKbIAFVIYlRmX3ryKNZpGUObkWMF0n2Kcg="
     },
     "wasmNative": {
-      "dotnet.native.xy6n5ki9md.wasm": "sha256-9ycBTybwK0upAZch59am7VKe39hQ1GyNiwbJx7Br/Yw="
+      "dotnet.native.y8o01x8hjk.wasm": "sha256-wv8Gca+gmgIi9IpU53WArExWrsxYj+aaZVBvgNFCnkc="
     },
     "icu": {
       "icudt_CJK.tjcz0u77k5.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -97,14 +97,14 @@
       "icudt_no_CJK.lfu7j35m59.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "coreAssembly": {
-      "System.Private.CoreLib.6gbwb8ijfx.wasm": "sha256-9uy2CaM7mH57mAAdKhxUzbVLqdkvEZpHm8T7Z6yarwU=",
+      "System.Private.CoreLib.87y61br1z1.wasm": "sha256-XHDAYB11PiKubzhoVWkuK+3Rl6qpRVSteNTFdJAL9v0=",
       "System.Runtime.InteropServices.JavaScript.nxw40yatln.wasm": "sha256-uyfChwcspL1+1talFyLU1LSCx2fmh3KASFCHwv+4gKg="
     },
     "assembly": {
       "Avalonia.Base.bwm6a2mmry.wasm": "sha256-ayviOUPF3Y5GsWkgCIv/tIA4Eqf6snikGBigUFqyInU=",
       "Avalonia.Browser.ham2kl7xbp.wasm": "sha256-p2q/EgAj1nf37oOPKZEZD9lsFSNKZkhIklHE98bDJP0=",
       "Avalonia.Controls.ColorPicker.1zo0fu84jb.wasm": "sha256-baXQwRK3ux184fHtgyVF2dp9psNUpXeWCyD+K5kBfKo=",
-      "Avalonia.Controls.DataGrid.jk71ww2gnb.wasm": "sha256-bWNB6QX1Ddbc4A+/cwdKx4MeOmlCpDH7Qf5ehzAplUM=",
+      "Avalonia.Controls.DataGrid.gtjgygpyvv.wasm": "sha256-VHqlp/Jxq/EupQvcdYwo3pEvpVLyID71eErv+vF9wlg=",
       "Avalonia.Controls.lav1f2qv5b.wasm": "sha256-rWvZmopn/hhC40vcNv4+uSRmkpwI84FLR4J2KZgUXhY=",
       "Avalonia.Dialogs.1soffpbtuk.wasm": "sha256-z3E5iKUbRUa8NEGnU63iPzzN1uDB2rdCbNyIix81wbc=",
       "Avalonia.Fonts.Inter.1780t66c2i.wasm": "sha256-fZ52FTR1sKVNS+D/86MoFCKyyRfoQv7Xv5DuJRT5LHI=",
@@ -119,9 +119,9 @@
       "Avalonia.Xaml.Interactions.Custom.s7hk3hbd6z.wasm": "sha256-KEsBA4IY+RY5YQCcJyIS5ks2x6YUS/pBGwML4wuY0J8=",
       "Avalonia.Xaml.Interactivity.n01xwtnu9k.wasm": "sha256-Zyefz/pBzZkYd5HCx5pI7bUp//nep2b934fwxIlCAlw=",
       "DialogHost.Avalonia.yr05ko1o9z.wasm": "sha256-0mhy4glNzDuqrtEdx5qBAjVM7sGH3Se9JHnON/l3nuc=",
-      "ErgoAdmin.Browser.8u3smbu73g.wasm": "sha256-cIQ3OtgyEcsLfiJLHa/AfkNgZy5ckIDYAoAyO1t1YY8=",
-      "ErgoAdmin.Common.eu8xxe7rdz.wasm": "sha256-BpRtKsBknOs39dk+fRsXipzNdPnQUUbJIqPU39QGbUk=",
-      "ErgoAdmin.1k6pej9fas.wasm": "sha256-cTdqCjzygfxL3srWwh3/DpHWlYpNnczInTmMx0spi1M=",
+      "ErgoAdmin.Browser.rfn8dfvpmy.wasm": "sha256-Wd53n/QDxozt5ViF7IKrUPYzCt4t/+O7yidBrVZ58F0=",
+      "ErgoAdmin.Common.ycqyjeu6k6.wasm": "sha256-8gQKckfklP0OmIKIrd3u8woiXYdZbxdN3+fOGTsmh40=",
+      "ErgoAdmin.6mmhefpi7m.wasm": "sha256-QvnUuFc8LUC32hrW5FCwiARElSQlrrOCdyB1nY1SZSE=",
       "ExCSS.sr02vsxils.wasm": "sha256-aG8M/SLxodM4jQVVA4gfQJORh2va0jD9SITQu5NRVZ0=",
       "FluentAvalonia.w8heww4qdc.wasm": "sha256-MFHh5uRCLRHNW5zhNDUe6O/1li+tGGzw+xPgd8gp9dU=",
       "HarfBuzzSharp.bebe8vylie.wasm": "sha256-M3XmuVJvD540rOQQGCPWtM0BWFiPYON8FDdWnuOX+cE=",
