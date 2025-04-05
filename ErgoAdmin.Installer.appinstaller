@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="file:///D:/ErgoPublish/ErgoAdmin.Installer.appinstaller"
+	Version="1.0.2.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="5c82fbb9-d7e5-4fa1-8521-504be2d3d081"
+		Version="1.0.2.0"
+		Publisher="CN=Ioannis Ypsilos"
+		Uri="file:///D:/ErgoPublish/ErgoAdmin.Installer_1.0.2.0_Test/ErgoAdmin.Installer_1.0.2.0_x86_x64.appxbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>
