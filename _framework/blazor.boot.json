@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ErgoAdmin.Browser",
   "resources": {
-    "hash": "sha256-OuZBOFzIJjfvtPOk05oB0UK8Un47v0AuIjWo9KZn/yQ=",
+    "hash": "sha256-V95neV8P4bO81FXygRsMFaPvKgS2ELgjPLKU4udxtjc=",
     "fingerprinting": {
       "Avalonia.Base.xpwpuyn0sb.wasm": "Avalonia.Base.wasm",
       "Avalonia.Browser.ham2kl7xbp.wasm": "Avalonia.Browser.wasm",
@@ -23,7 +23,7 @@
       "DialogHost.Avalonia.yr05ko1o9z.wasm": "DialogHost.Avalonia.wasm",
       "ErgoAdmin.Browser.3vukvxqzor.wasm": "ErgoAdmin.Browser.wasm",
       "ErgoAdmin.Common.lqev82xurw.wasm": "ErgoAdmin.Common.wasm",
-      "ErgoAdmin.oyxm29v8za.wasm": "ErgoAdmin.wasm",
+      "ErgoAdmin.3fodb2qmd4.wasm": "ErgoAdmin.wasm",
       "ExCSS.sr02vsxils.wasm": "ExCSS.wasm",
       "FluentAvalonia.n8lrcyqu8q.wasm": "FluentAvalonia.wasm",
       "HarfBuzzSharp.bebe8vylie.wasm": "HarfBuzzSharp.wasm",
@@ -121,7 +121,7 @@
       "DialogHost.Avalonia.yr05ko1o9z.wasm": "sha256-0mhy4glNzDuqrtEdx5qBAjVM7sGH3Se9JHnON/l3nuc=",
       "ErgoAdmin.Browser.3vukvxqzor.wasm": "sha256-wSOZg4/gtc6sTU8nfsnYtnRvxdWbquxHxc+4KOwLZsg=",
       "ErgoAdmin.Common.lqev82xurw.wasm": "sha256-XTxAuVPmsuQow9ywvwN3LEbTu/I0xlpZ51tEsLNM6ds=",
-      "ErgoAdmin.oyxm29v8za.wasm": "sha256-cEszKh9/wiJd1BU1sbDxU/M1qxe3krJ9J5Va2Lsl7Gw=",
+      "ErgoAdmin.3fodb2qmd4.wasm": "sha256-3w+XVEHRhgsFqdUwOQ0YQQrOm/xMTr+Mru571JdQ/eE=",
       "ExCSS.sr02vsxils.wasm": "sha256-aG8M/SLxodM4jQVVA4gfQJORh2va0jD9SITQu5NRVZ0=",
       "FluentAvalonia.n8lrcyqu8q.wasm": "sha256-uefrJgl6XiD0D7o6xzar2PSI2+VxrWsWdmWcXQX+T58=",
       "HarfBuzzSharp.bebe8vylie.wasm": "sha256-M3XmuVJvD540rOQQGCPWtM0BWFiPYON8FDdWnuOX+cE=",
