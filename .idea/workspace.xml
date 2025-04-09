@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8f3b02d-aec3-4479-925a-ddad625ce4a3" name="Changes" comment="" />
+    <list default="true" id="a8f3b02d-aec3-4479-925a-ddad625ce4a3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,6 +92,7 @@
       <workItem from="1743883556307" duration="3260000" />
       <workItem from="1744039279162" duration="61000" />
       <workItem from="1744042922825" duration="38000" />
+      <workItem from="1744133639812" duration="339000" />
     </task>
     <task id="LOCAL-00001" summary="sd">
       <option name="closed" value="true" />
@@ -371,7 +374,23 @@
       <option name="project" value="LOCAL" />
       <updated>1744042939295</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="1.0.8 and the APK">
+      <option name="closed" value="true" />
+      <created>1744133667295</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1744133667295</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Typo in index">
+      <option name="closed" value="true" />
+      <created>1744133834263</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1744133834263</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -381,8 +400,6 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Modified DataGrid" />
-    <MESSAGE value="Added extra columns" />
     <MESSAGE value="Added exit" />
     <MESSAGE value="Reverted color style" />
     <MESSAGE value="Added color" />
@@ -406,7 +423,9 @@
     <MESSAGE value="new version 1.0.4" />
     <MESSAGE value="1.0.6" />
     <MESSAGE value="1.0.7" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.0.7" />
+    <MESSAGE value="1.0.8 and the APK" />
+    <MESSAGE value="Typo in index" />
+    <option name="LAST_COMMIT_MESSAGE" value="Typo in index" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
