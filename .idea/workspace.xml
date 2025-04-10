@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8f3b02d-aec3-4479-925a-ddad625ce4a3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a8f3b02d-aec3-4479-925a-ddad625ce4a3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +92,7 @@
       <workItem from="1744042922825" duration="38000" />
       <workItem from="1744133639812" duration="339000" />
       <workItem from="1744269751402" duration="59000" />
-      <workItem from="1744270486675" duration="4978000" />
+      <workItem from="1744270486675" duration="5631000" />
     </task>
     <task id="LOCAL-00001" summary="sd">
       <option name="closed" value="true" />
@@ -456,7 +454,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744278285223</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="1.0.13">
+      <option name="closed" value="true" />
+      <created>1744307817043</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1744307817043</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -477,7 +483,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Added users and login" />
     <MESSAGE value="Output login exception" />
     <MESSAGE value="Enable json serialization" />
     <MESSAGE value="Publish trimmed set to false" />
@@ -502,7 +507,8 @@
     <MESSAGE value="test" />
     <MESSAGE value="APK" />
     <MESSAGE value="apk" />
-    <option name="LAST_COMMIT_MESSAGE" value="apk" />
+    <MESSAGE value="1.0.13" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.0.13" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
