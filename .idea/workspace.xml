@@ -98,14 +98,7 @@
       <workItem from="1744363997032" duration="59000" />
       <workItem from="1744372449555" duration="31000" />
       <workItem from="1744375279523" duration="42000" />
-    </task>
-    <task id="LOCAL-00003" summary="added .gitattributes">
-      <option name="closed" value="true" />
-      <created>1743750859597</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1743750859597</updated>
+      <workItem from="1744379893203" duration="223000" />
     </task>
     <task id="LOCAL-00004" summary="Added theme switching">
       <option name="closed" value="true" />
@@ -491,7 +484,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744375293763</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="apk - Notifications history">
+      <option name="closed" value="true" />
+      <created>1744379911736</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1744379911736</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -512,7 +513,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Output login exception" />
     <MESSAGE value="Enable json serialization" />
     <MESSAGE value="Publish trimmed set to false" />
     <MESSAGE value="reverted trimming" />
@@ -537,7 +537,8 @@
     <MESSAGE value="APK" />
     <MESSAGE value="1.0.13" />
     <MESSAGE value="apk" />
-    <option name="LAST_COMMIT_MESSAGE" value="apk" />
+    <MESSAGE value="apk - Notifications history" />
+    <option name="LAST_COMMIT_MESSAGE" value="apk - Notifications history" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
