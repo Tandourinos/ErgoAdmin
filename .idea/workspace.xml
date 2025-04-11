@@ -94,6 +94,7 @@
       <workItem from="1744269751402" duration="59000" />
       <workItem from="1744270486675" duration="5631000" />
       <workItem from="1744308546897" duration="32000" />
+      <workItem from="1744328529555" duration="1634000" />
     </task>
     <task id="LOCAL-00001" summary="sd">
       <option name="closed" value="true" />
@@ -471,7 +472,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744308562027</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="apk">
+      <option name="closed" value="true" />
+      <created>1744328542045</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1744328542045</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
