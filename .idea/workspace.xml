@@ -100,14 +100,7 @@
       <workItem from="1744375279523" duration="42000" />
       <workItem from="1744379893203" duration="223000" />
       <workItem from="1744380627549" duration="38000" />
-    </task>
-    <task id="LOCAL-00005" summary="Enhanced log in">
-      <option name="closed" value="true" />
-      <created>1743765580677</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1743765580677</updated>
+      <workItem from="1744528446025" duration="36000" />
     </task>
     <task id="LOCAL-00006" summary="Added font">
       <option name="closed" value="true" />
@@ -493,7 +486,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744380644531</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="APK">
+      <option name="closed" value="true" />
+      <created>1744528457138</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1744528457138</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -534,12 +535,12 @@
     <MESSAGE value="typo in index.html" />
     <MESSAGE value="New keystore" />
     <MESSAGE value="test" />
-    <MESSAGE value="APK" />
     <MESSAGE value="1.0.13" />
     <MESSAGE value="apk" />
     <MESSAGE value="apk - Notifications history" />
     <MESSAGE value="apk - keep alive" />
-    <option name="LAST_COMMIT_MESSAGE" value="apk - keep alive" />
+    <MESSAGE value="APK" />
+    <option name="LAST_COMMIT_MESSAGE" value="APK" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
